@@ -1,0 +1,1337 @@
+
+*{
+
+	margin:0;
+	padding:0;
+	box-sizing: border-box;
+  
+}
+
+
+
+body{
+	
+	margin:20;
+	padding:20;
+	font-family:monospace;
+	background:linear-gradient(120deg,#FF00FF,#7FFF00);
+	heigth:100vh;
+	overflow:hidden;
+  overflow-y:scroll; 
+
+}
+ 
+body::-webkit-scrollbar{
+  width: 20px;
+  background-color:#BDB76B;
+  border-radius:50px;
+}
+
+body::-webkit-scrollbar-thumb{
+  background-color:#696969;
+  border-radius:50px;
+}
+
+
+svg{
+	display: absolute;
+	width:80%;
+	height:100%;
+	font-family:raleway;
+
+}
+svg text{
+    text-transform: uppercase;
+    font-size: 120px;
+    font-weight:700;
+    animation: :stroke 5s infinite alternate;
+  }  
+
+
+
+}
+@keyframes stroke{
+	0%{
+		fill:rgba(56,82,79,0);
+		stroke:rgba(56, 96, 160, 1);
+        stroke-width:2;
+        stroke-dashoffset: 25%;
+        stroke-dasharray: 0 50%;
+	}
+	70%{
+
+		fil:rgba(56,82,79,0);
+		stroke:rgba(56, 95, 160, 1);
+	}
+	80%{
+
+		fil:rgba(56,82,79,0);
+		stroke:rgba(56, 95, 160, 1);
+		stroke-width: 3;
+	}
+	100%{
+		fill:rgba(56,82,79,0);
+		stroke:rgba(54, 96, 160, 1);
+        stroke-width:0;
+        stroke-dashoffset:-25%;
+        stroke-dasharray: 50% 0;
+	}
+}
+
+  #menu ul { 
+ 
+  padding:20px ;
+  margin:0px;
+  background-color:#1C1C1C;
+  list-style:none;
+}
+
+.menu a{
+
+
+	color:#FF00FF;
+	font-size:60px;
+	
+}
+
+#menu ul li { display: inline; }
+
+
+
+#menu ul li a { 
+    padding: 2px 10px; 
+    display: inline-block; 
+    background-color:#1C1C1C; 
+    color:#8B008B; 
+    text-decoration: none; 
+    border-bottom:3px solid #1C1C1C; 
+}
+.form-box input{
+ width: 100px;
+ border:  50px;
+ outline: none;
+ padding: 5px 10px;
+  
+ font-size:16px;
+
+
+}
+
+.form-box button{
+
+ width:100px;
+ border:none;
+ outline: none;
+ cursor:pointer;
+ font-size:50px;
+ font-wight:500;
+ background-color:#0099ff;
+ color:#fff;
+   
+
+}
+
+.form-box button:hover{
+ width: 100px;
+ background-color: #096daf;
+ margin:100;
+
+}
+
+ .principal{
+
+ 	position:absolute;
+ 	top:50%;
+ 	left:50%;
+ 	transform:translate(-50%,-50%);
+ 	width:700px;
+ 	background:white;
+ 	border-radius:10px;
+  overflow: hidden;
+  overflow-y:scroll;
+
+ } 
+ .principal h1{
+
+ 	text-align:center;
+ 	padding:0 0 20px 0;
+ 	border-bottom:1px solid sliver;
+
+
+ }
+ .principal  h1{
+
+ 	color:#00FFFF,#2F4F4F;
+ 	font-size: 70px;
+ }
+.principal form{
+  
+padding: 0 70px;
+box-sizzing: border-box;
+
+
+}
+
+	
+.item button{
+
+    padding: 5px 30px;
+    border: none;
+    outline: none;
+    background-color:DarkOrange;
+    color:write;
+    cursor:pointer;
+    border-radius: 4px;
+    font-size: 20px;
+    display: block;
+    margin: 0 auto;
+	  color:#FF00FF;
+}
+
+form.txt-field{
+
+position:relative;
+border-bottom:2px solid #adadad;
+margin:30px 0;
+}
+
+
+
+.txt-field input{
+
+widtn:100px;
+padding:0 5px;
+height:40px;
+font-size:16px;
+border:none;
+outline:none;
+
+}
+.txt_field label{
+  position:absolute;
+  top:50%;
+  left:5px;
+  color:#adadad;
+  transform:translateY(-50%);
+  font-size: 100px;
+  pointer-events: none;
+  transition:5s;
+
+} 
+.txt.field span: :before{
+
+    content: ' '; 
+    position:absolute;
+    top:40px;
+    left:0;
+    widht:100;
+    height:2px;
+    background:#2691d9;
+    transition:.5s;
+
+
+}
+.txt_field input:focus~label,
+.txt_field input:valid~label{
+top:-5px;
+color:#6A5ACD;
+};
+
+txt_field input:focus~span:before,
+.txt_field input:valid~span:before{
+windth:100%;
+}
+.pass{
+
+ margin:-0px 0 20px 5px;
+ color:#a6a6a6a;
+ cursor:pointer;
+
+}
+.pass:hover{
+ text-decoration:underline;
+
+}
+input[type="submit"]{
+	width:100px;
+	geight:50px;
+	border:-50px solid;
+	background:#2691d9;
+	border-radius:25px;
+	font-size:25px;
+	font-size:18px;
+	color:#e9f4fb;
+	font-weight:700;
+	cursor:pointer;
+	outline:none;
+
+} 
+
+input[type="submit"]:hover{
+	boorder-color: #2691d9;
+	transition:.5s;
+
+} 
+.signup_link{
+
+
+
+	margin:30px 0;
+	text-align:principal;
+	font-size:50px;
+    color: #FF00FF;
+}#ADD8E6;
+
+.signup_link a {
+
+    color:#FF00FF;
+    
+    text-decoration:none;
+    font-size:60px;
+
+}
+
+.signup_link a:hover {
+
+    text-decoration:underline;
+
+}
+
+  
+
+.inicial form{
+
+  position:absolute;
+ 	top:50%;
+ 	left:50%;
+ 	transform:translate(-50%,-50%);
+ 	width:700px;
+ 	background:LightPink;
+ 	border-radius:10px;
+
+
+}
+.inicial h1{
+
+
+	color:#2F4F4F;
+
+}
+
+
+.páginainicial{
+
+  position:absolute;
+  top:50%;
+  left:50%;
+  transform:translate(-50%,-50%);
+  width:700px;
+  background:LightPink;
+  border-radius:10px;
+
+
+ } 
+
+
+
+ .páginainicial form{
+  
+padding: 0 70px;
+box-sizzing: border-box;
+overflow: hidden;
+overflow-y:scroll; 
+
+}
+
+.páginainicial h1{
+
+ 	color:#2F4F4F;	
+ }
+
+
+
+
+
+.páginainicial h2{
+
+ 	color:#2F4F4F;
+ }
+.páginainicial p{
+
+
+  font-size:15px;
+
+
+}
+  
+
+
+  .itens{
+
+  	display: grid;
+  	grid-template-columns: repeat(3,1fr);
+  	padding: 30px 20px;
+  	grid-column-gap: 30px;
+  }
+
+
+ .programação{
+
+ 	position:absolute;
+ 	top:50%;
+ 	left:50%;
+ 	transform:translate(-50%,-50%);
+ 	width:700px;
+ 	background:LightPink;
+ 	border-radius:10px;
+
+
+ } 
+
+
+ .programação form{
+  
+padding: 0 70px;
+box-sizzing: border-box;
+overflow: hidden;
+overflow-y:scroll; 
+
+}
+
+.programação h1{
+
+ 	color:#2F4F4F;
+ }
+
+.programação p{
+
+
+  font-size:15px;
+
+
+}
+
+
+.sobremim{
+
+ 	position:absolute;
+ 	top:70%;
+ 	left:50%;
+ 	transform:translate(-50%,-50%);
+ 	width:600px;
+ 	background:LightPink;
+ 	border-radius:10px;
+
+
+
+ } 
+
+ .sobremim form{
+  
+padding: 0 70px;
+box-sizzing: border-box;
+overflow: hidden;
+overflow-y:scroll; 
+
+}
+
+.sobremim h1{
+
+ 	color:#2F4F4F;
+ }
+
+ .sobremim h2{
+
+ 	color:#2F4F4F;
+ }
+
+
+ .java{
+
+ 	position:absolute;
+ 	top:50%;
+ 	left:50%;
+ 	transform:translate(-50%,-50%);
+ 	width:700px;
+ 	background:LightPink;
+ 	border-radius:10px;
+
+
+ } 
+
+.java form{
+  
+padding: 0 70px;
+box-sizzing:border-box;
+overflow: hidden;
+overflow-y:scroll;
+
+}
+
+.java h1{
+
+ 	color:#2F4F4F;	
+ }
+
+
+
+
+.java h2{
+
+ 	color:#2F4F4F;
+ }
+.java  p{
+
+
+  font-size:15px;
+
+
+}
+
+
+
+.java1{
+
+ 	position:absolute;
+ 	top:50%;
+ 	left:50%;
+ 	transform:translate(-50%,-50%);
+ 	width:700px;
+ 	background:LightPink;
+ 	border-radius:10px;
+    
+
+ } 
+
+.java1 form{
+  
+padding: 0 70px;
+box-sizzing: border-box;
+overflow: hidden;
+overflow-y:scroll; 
+
+}
+
+.java1 h1{
+
+ 	color:#2F4F4F;	
+ }
+
+
+}
+
+.java1 h2{
+
+ 	color:#2F4F4F;
+ }
+.java1  p{
+
+
+  font-size:15px;
+
+
+}
+
+.java2{
+
+ 	position:absolute;
+ 	top:50%;
+ 	left:50%;
+ 	transform:translate(-50%,-50%);
+ 	width:700px;
+ 	background:LightPink;
+ 	border-radius:10px;
+
+
+ } 
+
+.java2 form{
+  
+padding: 0 70px;
+box-sizzing: border-box;
+overflow: hidden ;
+overflow-y:scroll; 
+
+
+}
+
+.java2 h1{
+
+ 	color:#2F4F4F;	
+ }
+
+
+}
+
+.java2 h2{
+
+ 	color:#2F4F4F;
+ }
+.java2  p{
+
+
+  font-size:15px;
+
+
+}
+
+ .java3{
+
+ 	position:absolute;
+ 	top:50%;
+ 	left:50%;
+ 	transform:translate(-50%,-50%);
+ 	width:700px;
+ 	background:LightPink;
+ 	border-radius:10px;
+
+
+ } 
+
+.java3 form{
+  
+padding: 0 70px;
+box-sizzing: border-box;
+overflow: hidden;
+overflow-y:scroll; 
+
+}
+
+.java3 h1{
+
+ 	color:#2F4F4F;	
+ }
+
+
+
+
+.java3 h2{
+
+ 	color:#2F4F4F;
+ }
+.java3  p{
+
+
+  font-size:15px;
+
+
+}   
+
+.java4{
+
+  position:absolute;
+  top:50%;
+  left:50%;
+  transform:translate(-50%,-50%);
+  width:700px;
+  background:LightPink;
+  border-radius:10px;
+    
+
+ } 
+
+.java4 form{
+  
+padding: 0 70px;
+box-sizzing: border-box;
+overflow: hidden;
+overflow-y:scroll; 
+
+}
+
+.java4 h1{
+
+  color:#2F4F4F;  
+ }
+
+
+
+
+.java4 h2{
+
+  color:#2F4F4F;
+ }
+.java4  p{
+
+
+  font-size:15px;
+
+
+}
+
+.java5{
+
+  position:absolute;
+  top:50%;
+  left:50%;
+  transform:translate(-50%,-50%);
+  width:700px;
+  background:LightPink;
+  border-radius:10px;
+    
+
+ } 
+
+.java5 form{
+  
+padding: 0 70px;
+box-sizzing: border-box;
+overflow: hidden;
+overflow-y:scroll; 
+
+}
+
+.java5 h1{
+
+  color:#2F4F4F;  
+ }
+
+
+.java5 h2{
+
+  color:#2F4F4F;
+ }
+.java5  p{
+
+
+  font-size:15px;
+
+
+}
+
+
+.java6{
+
+  position:absolute;
+  top:50%;
+  left:50%;
+  transform:translate(-50%,-50%);
+  width:700px;
+  background:LightPink;
+  border-radius:10px;
+    
+
+ } 
+
+.java6 form{
+  
+padding: 0 70px;
+box-sizzing: border-box;
+overflow: hidden;
+overflow-y:scroll; 
+
+}
+
+.java6 h1{
+
+  color:#2F4F4F;  
+ }
+
+
+
+
+.java6 h2{
+
+  color:#2F4F4F;
+ }
+.java6  p{
+
+
+  font-size:15px;
+
+
+}
+
+.java7{
+
+  position:absolute;
+  top:50%;
+  left:50%;
+  transform:translate(-50%,-50%);
+  width:700px;
+  background:LightPink;
+  border-radius:10px;
+    
+
+ } 
+
+.java7 form{
+  
+padding: 0 70px;
+box-sizzing: border-box;
+overflow: hidden;
+overflow-y:scroll; 
+
+}
+
+.java7 h1{
+
+  color:#2F4F4F;  
+ }
+
+
+
+
+.java7 h2{
+
+  color:#2F4F4F;
+ }
+.java7  p{
+
+
+  font-size:15px;
+
+
+}
+
+
+.java8{
+
+  position:absolute;
+  top:50%;
+  left:50%;
+  transform:translate(-50%,-50%);
+  width:700px;
+  background:LightPink;
+  border-radius:10px;
+    
+
+ } 
+
+.java8 form{
+  
+padding: 0 70px;
+box-sizzing: border-box;
+overflow: hidden;
+overflow-y:scroll; 
+
+}
+
+.java8 h1{
+
+  color:#2F4F4F;  
+ }
+
+
+}
+
+.java8 h2{
+
+  color:#2F4F4F;
+ }
+.java8  p{
+
+
+  font-size:15px;
+
+
+}
+
+
+.java9{
+
+  position:absolute;
+  top:50%;
+  left:50%;
+  transform:translate(-50%,-50%);
+  width:700px;
+  background:LightPink;
+  border-radius:10px;
+    
+
+ } 
+
+.java9 form{
+  
+padding: 0 70px;
+box-sizzing: border-box;
+overflow: hidden;
+overflow-y:scroll; 
+
+}
+
+.java9 h1{
+
+  color:#2F4F4F;  
+ }
+
+
+}
+
+.java9 h2{
+
+  color:#2F4F4F;
+ }
+.java9  p{
+
+
+  font-size:15px;
+
+
+}
+
+
+.java10{
+
+  position:absolute;
+  top:50%;
+  left:50%;
+  transform:translate(-50%,-50%);
+  width:700px;
+  background:LightPink;
+  border-radius:10px;
+    
+
+ } 
+
+.java10 form{
+  
+padding: 0 70px;
+box-sizzing: border-box;
+overflow: hidden;
+overflow-y:scroll; 
+
+}
+
+.java10 h1{
+
+  color:#2F4F4F;  
+ }
+
+
+}
+
+.java10 h2{
+
+  color:#2F4F4F;
+ }
+.java10  p{
+
+
+  font-size:15px;
+
+
+}
+
+.java11{
+
+  position:absolute;
+  top:50%;
+  left:50%;
+  transform:translate(-50%,-50%);
+  width:700px;
+  background:LightPink;
+  
+  
+
+ } 
+
+.java11 form{
+  
+padding: 0 70px;
+box-sizzing: border-box;
+overflow: hidden ;
+overflow-y:scroll; 
+
+}
+
+.java11 h1{
+
+  color:#2F4F4F;  
+ }
+
+
+
+
+.java11 h2{
+
+  color:#2F4F4F;
+ }
+.java11  p{
+
+
+  font-size:15px;
+
+
+}
+
+.java12{
+
+  position:absolute;
+  top:50%;
+  left:50%;
+  transform:translate(-50%,-50%);
+  width:700px;
+  background:LightPink;
+  border-radius:10px;
+    
+
+ } 
+
+.java12 form{
+  
+padding: 0 70px;
+box-sizzing: border-box;
+overflow: hidden;
+overflow-y:scroll; 
+
+}
+
+.java12 h1{
+
+  color:#2F4F4F;  
+ }
+
+
+}
+
+.java12 h2{
+
+  color:#2F4F4F;
+ }
+.java12  p{
+
+
+  font-size:15px;
+
+
+}
+
+.java13{
+
+  position:absolute;
+  top:50%;
+  left:50%;
+  transform:translate(-50%,-50%);
+  width:700px;
+  background:LightPink;
+  border-radius:10px;
+    
+
+ } 
+
+.java13 form{
+  
+padding: 0 70px;
+box-sizzing: border-box;
+overflow: hidden;
+overflow-y:scroll; 
+
+}
+
+.java13 h1{
+
+  color:#2F4F4F;  
+ }
+
+
+
+
+.java13 h2{
+
+  color:#2F4F4F;
+ }
+.java13  p{
+
+
+  font-size:15px;
+
+
+}
+
+.java14{
+
+  position:absolute;
+  top:50%;
+  left:50%;
+  transform:translate(-50%,-50%);
+  width:700px;
+  background:LightPink;
+  border-radius:10px;
+    
+
+ } 
+
+.java14 form{
+  
+padding: 0 70px;
+box-sizzing: border-box;
+overflow: hidden;
+overflow-y:scroll; 
+
+}
+
+.java14 h1{
+
+  color:#2F4F4F;  
+ }
+
+
+
+
+.java14 h2{
+
+  color:#2F4F4F;
+ }
+.java14  p{
+
+
+  font-size:15px;
+
+
+}
+
+.java15{
+
+  position:absolute;
+  top:50%;
+  left:50%;
+  transform:translate(-50%,-50%);
+  width:700px;
+  background:LightPink;
+  border-radius:10px;
+    
+
+ } 
+
+.java15 form{
+  
+padding: 0 70px;
+box-sizzing: border-box;
+overflow: hidden;
+overflow-y:scroll; 
+
+}
+
+.java15 h1{
+
+  color:#2F4F4F;  
+ }
+
+
+
+
+.java15 h2{
+
+  color:#2F4F4F;
+ }
+.java15  p{
+
+
+  font-size:15px;
+
+
+}
+
+.java16{
+
+  position:absolute;
+  top:50%;
+  left:50%;
+  transform:translate(-50%,-50%);
+  width:700px;
+  background:LightPink;
+  border-radius:10px;
+    
+
+ } 
+
+.java16 form{
+  
+padding: 0 70px;
+box-sizzing: border-box;
+overflow: hidden ;
+overflow-y:scroll; 
+
+}
+
+.java16 h1{
+
+  color:#2F4F4F;  
+ }
+
+
+
+
+.java16 h2{
+
+  color:#2F4F4F;
+ }
+.java16  p{
+
+
+  font-size:15px;
+
+
+}
+
+.java17{
+
+  position:absolute;
+  top:50%;
+  left:50%;
+  transform:translate(-50%,-50%);
+  width:700px;
+  background:LightPink;
+  border-radius:10px;
+    
+
+ } 
+
+.java17 form{
+  
+padding: 0 70px;
+box-sizzing: border-box;
+overflow: hidden;
+overflow-y:scroll; 
+
+}
+
+.java17 h1{
+
+  color:#2F4F4F;  
+ }
+
+
+
+
+.java17 h2{
+
+  color:#2F4F4F;
+ }
+.java17  p{
+
+
+  font-size:15px;
+
+
+}
+
+.java18{
+
+  position:absolute;
+  top:50%;
+  left:50%;
+  transform:translate(-50%,-50%);
+  width:700px;
+  background:LightPink;
+  border-radius:10px;
+    
+
+ } 
+
+.java18 form{
+  
+padding: 0 70px;
+box-sizzing: border-box;
+overflow: hidden;
+overflow-y:scroll; 
+
+}
+
+.java18 h1{
+
+  color:#2F4F4F;  
+ }
+
+
+
+
+.java18 h2{
+
+  color:#2F4F4F;
+ }
+.java18  p{
+
+
+  font-size:15px;
+
+
+}
+
+.java19{
+
+  position:absolute;
+  top:50%;
+  left:50%;
+  transform:translate(-50%,-50%);
+  width:700px;
+  background:LightPink;
+  border-radius:10px;
+    
+
+ } 
+
+.java19 form{
+  
+padding: 0 70px;
+box-sizzing: border-box;
+overflow: hidden;
+overflow-y:scroll; 
+
+}
+
+.java19 h1{
+
+  color:#2F4F4F;  
+ }
+
+
+
+
+.java19 h2{
+
+  color:#2F4F4F;
+ }
+.java19  p{
+
+
+  font-size:15px;
+
+
+}
+
+
+.java20{
+
+  position:absolute;
+  top:50%;
+  left:50%;
+  transform:translate(-50%,-50%);
+  width:700px;
+  background:LightPink;
+  border-radius:10px;
+
+    
+
+ } 
+
+.java20 form{
+  
+padding: 0 70px;
+box-sizzing: border-box;
+overflow: hidden;
+overflow-y:scroll; 
+
+}
+
+.java20 h1{
+
+  color:#2F4F4F;  
+ }
+
+
+
+
+.java20 h2{
+
+  color:#2F4F4F;
+ }
+.java20  p{
+
+
+  font-size:15px;
+
+
+}
+

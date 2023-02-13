@@ -147,8 +147,8 @@ svg text{
  	width:700px;
  	background:white;
  	border-radius:10px;
-  overflow: hidden;
-  overflow-y:scroll;
+        overflow: hidden;
+        overflow-y:scroll;
 
  } 
  .principal h1{
@@ -185,7 +185,7 @@ box-sizzing: border-box;
     font-size: 20px;
     display: block;
     margin: 0 auto;
-	  color:#FF00FF;
+    color:#FF00FF;
 }
 
 form.txt-field{
@@ -235,7 +235,7 @@ outline:none;
 .txt_field input:valid~label{
 top:-5px;
 color:#6A5ACD;
-};
+}
 
 txt_field input:focus~span:before,
 .txt_field input:valid~span:before{
@@ -279,8 +279,9 @@ input[type="submit"]:hover{
 	margin:30px 0;
 	text-align:principal;
 	font-size:50px;
-    color: #FF00FF;
-}#ADD8E6;
+        color: #FF00FF;
+        
+}  
 
 .signup_link a {
 
@@ -813,7 +814,7 @@ overflow-y:scroll;
  }
 
 
-}
+
 
 .java8 h2{
 
@@ -856,7 +857,7 @@ overflow-y:scroll;
  }
 
 
-}
+
 
 .java9 h2{
 
@@ -899,7 +900,7 @@ overflow-y:scroll;
  }
 
 
-}
+
 
 .java10 h2{
 
@@ -983,7 +984,7 @@ overflow-y:scroll;
  }
 
 
-}
+
 
 .java12 h2{
 

@@ -46,14 +46,22 @@ Olá a todos a criação desde projeto foi destinado para armazenar os links de 
 
 # A publicação do website 
 
-1.Não contém na web.
-2.Procurei diversos lugares gratuitos e não encontrei e como boa parte necessita pagar.
-3.Tive a ideia de utilizar o Wiki do Githunb.
-4.Observei que não contia como colocar imagem,mas só o URL e  o Link.
-5.Coloquei no Google Drive.
-6.Mas analisando para não ocupar demais e o drive.
-7.Tenho uma conta no Pinters.
-8.Criei uma pasta destina só para Html e Css.
+1.Não contém na web;
+
+2.Procurei diversos lugares gratuitos e não encontrei e como boa parte necessita pagar;
+
+3.Tive a ideia de utilizar o Wiki do Githunb;
+
+4.Observei que não contia como colocar imagem,mas só o URL e  o Link;
+
+5.Coloquei no Google Drive;
+
+6.Mas analisando para não ocupar demais e o drive;
+
+7.Tenho uma conta no Pinters;
+
+8.Criei uma pasta destina só para Html e Css;
+
 9.Foi colocado em subpaste,pois colocarei outro projetos.
 
 

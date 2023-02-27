@@ -25,7 +25,11 @@ Olá a todos a criação desde projeto foi destinado para armazenar os links de 
 4.2)Encontra os Links do outro Website,Youtube e Githunb.
 
 
-@ v
+# O que mais demorou para conseguir a finalização de tudo.
+
+1.Foi o Scrool(Barra de Rolagem para baixo e para cima fiquei tentando várias maneira para conseguir o resultado até obtive o desejado. 
+
+2.
 
 
 

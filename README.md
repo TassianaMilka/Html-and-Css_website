@@ -112,19 +112,19 @@ Hello everyone, the creation of this project aimed to store the links of each pu
 
 1.Does not contain on the web;
 
-2. I looked for several free places and I didn't find it and as a good part needs to pay;
+2.I looked for several free places and I didn't find it and as a good part needs to pay;
 
 3.I had the idea of using the Githunb Wiki;
 
-4. I noticed that it didn't contain how to put an image, but only the URL and the Link;
+4.I noticed that it didn't contain how to put an image, but only the URL and the Link;
 
 5.I put it on Google Drive;
 
-6. But analyzing so as not to occupy too much and the drive;
+6.But analyzing so as not to occupy too much and the drive;
 
 7.I have a Pinters account;
 
-8. I created a folder for Html and CSS only;
+8.I created a folder for Html and CSS only;
 
 9.It was placed in a subpaste, as I will place another project.
 

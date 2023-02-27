@@ -8,7 +8,7 @@ Olá a todos a criação desde projeto foi destinado para armazenar os links de 
 
 1.1)Uma frase de cumprimento a quem acessa o website e os três botões a Página Inicial,Programação e Sobre Mim.
 
-2.Quando aperta por exemplo em Página Incial vai encontrar um resumo sobre 
+2.Quando aperta por exemplo em Página Incial vai encontrar um resumo sobre. 
 
 3.Em  programação encontrará um breve texto descrevendo do que trata-se e contém outro botão escrito Java.
 

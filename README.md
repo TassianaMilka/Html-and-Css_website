@@ -140,6 +140,25 @@ Hello everyone, the creation of this project aimed to store the links of each pu
 Hola a todos, la creación de este proyecto tuvo como objetivo almacenar los enlaces de cada publicación realizada en el canal de Yotube y un resumen de texto simple de los puntos principales tratados en el video de cada semana en este período de tiempo me tomó 15 días aproximadamente para terminar, porque este fue mi primer proyecto con esta función. Realmente una gran experiencia de aprendizaje para mí, aprendí más. Durante el tiempo que estuve realizando cada parte de esto en Html y CSS lo hice para no generar confusión y cada ítem relacionado con la apertura de nuevas páginas cuando el usuario estaba accediendo y facilitando la ubicación de la página. A continuación haré un paso a paso de cómo es el sitio.
 
 
+1.La entrada del menú con el Nombre del canal Tassiana Milka y los elementos Inicio, Programación y Acerca de mí.
+
+1.1) Una frase de saludo a quienes acceden al sitio web ya los tres botones, Página Inicial, Programación y Sobre Mim.
+
+2.Cuando presione, por ejemplo, en la página de inicio, encontrará un resumen sobre.
+
+3.En programación encontrarás un breve texto describiendo de qué se trata y contiene otro botón escrito en Java.
+
+3.1) Al presionar este botón, encontrará varios enlaces como "Programación en Java (1)";
+
+3.2) Accediendo a este enlace se leerá el pequeño texto;
+
+3.3) Luego, los enlaces de video en Yotube y Githunb dirigen al repositorio del código de publicación.
+
+4.Ahora si el usuario quisiera saber un poco de mi.
+
+4.1)Presione el botón y podrá leer el resumen;
+
+4.2)Encuentre los enlaces del otro sitio web, Youtube y Githunb.
 
 
 (Muito Obrigada),(Thank You),(Gracias) in (どうもありがとうございます)

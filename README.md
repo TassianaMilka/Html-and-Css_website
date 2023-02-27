@@ -202,6 +202,6 @@ Hola a todos, la creación de este proyecto tuvo como objetivo almacenar los enl
 
 # ------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-(Muito Obrigada),(Thank You),(Gracias) in (どうもありがとうございます)
+(Muito Obrigada),(Thank You),(Gracias) is (どうもありがとうございます)
 
 # https://github.com/TassianaMilka/Html-is-Css/wiki

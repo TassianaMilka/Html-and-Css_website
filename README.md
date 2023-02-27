@@ -161,7 +161,7 @@ Hola a todos, la creación de este proyecto tuvo como objetivo almacenar los enl
 4.2)Encuentre los enlaces del otro sitio web, Youtube y Githunb.
 
 
-#   
+#  Elementos que requieren más tiempo para completar todo. 
 
 1.Era el Scrool (barra de desplazamiento hacia arriba y hacia abajo). Estaba intentando varias formas de obtener el resultado hasta que obtuve el deseado.
 

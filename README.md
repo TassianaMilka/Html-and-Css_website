@@ -170,6 +170,9 @@ Hola a todos, la creación de este proyecto tuvo como objetivo almacenar los enl
 
 #   
 
+1.Era el Botón.
+
+2.Escribir en el Formulario.
 
 
 (Muito Obrigada),(Thank You),(Gracias) in (どうもありがとうございます)

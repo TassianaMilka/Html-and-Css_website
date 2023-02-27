@@ -10,7 +10,11 @@ Olá a todos a criação desde projeto foi destinado para armazenar os links de 
 
 3.Em  programação encontrará um breve texto descrevendo do que trata-se e contém outro botão escrito Java.
 
-3.1)Apertando nesse botão encontra-se vários links 
+3.1)Apertando nesse botão encontra-se vários links como exemplo "Programando em Java(1)"
+
+3.2)Acessando esse link vai ler o texto pequeno.
+
+3.3)Depois  os links do vídeo no Yotube e o do Githunb direto ao repositório do código da publicação.
 
 
 

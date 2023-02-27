@@ -64,6 +64,8 @@ Olá a todos a criação desde projeto foi destinado para armazenar os links de 
 
 9.Foi colocado em subpaste,pois colocarei outro projetos.
 
+# -------------------------------------------------------------------------------------------------------------------------------------------
+
 # Introduction in English 
 
 Hello everyone, the creation of this project aimed to store the links of each publication made on the Yotube channel and a simple text summary of the main points covered in the video of each week in this period of time it took me 15 days or so to finish, because this was my first project with this function. Really a great learning experience for me, I learned more. During the time that I was carrying out each part of this in Html and Css I did it in order not to generate confusion and each item related to the opening of new pages when the user was accessing and facilitating the location of the page. Next I will do a step by step of how the site is.

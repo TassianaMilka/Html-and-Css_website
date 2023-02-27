@@ -102,7 +102,7 @@ Hello everyone, the creation of this project aimed to store the links of each pu
 
 1.It was the Button.
 
-2. Writing on the Form.
+2.Writing on the Form.
 
 Hola todos 
 

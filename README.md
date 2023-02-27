@@ -135,6 +135,13 @@ Hello everyone, the creation of this project aimed to store the links of each pu
 
 # ------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+
+
+Hola a todos, la creación de este proyecto tuvo como objetivo almacenar los enlaces de cada publicación realizada en el canal de Yotube y un resumen de texto simple de los puntos principales tratados en el video de cada semana en este período de tiempo me tomó 15 días aproximadamente para terminar, porque este fue mi primer proyecto con esta función. Realmente una gran experiencia de aprendizaje para mí, aprendí más. Durante el tiempo que estuve realizando cada parte de esto en Html y CSS lo hice para no generar confusión y cada ítem relacionado con la apertura de nuevas páginas cuando el usuario estaba accediendo y facilitando la ubicación de la página. A continuación haré un paso a paso de cómo es el sitio.
+
+
+
+
 (Muito Obrigada),(Thank You),(Gracias) in (どうもありがとうございます)
 
 # https://github.com/TassianaMilka/Html-is-Css/wiki

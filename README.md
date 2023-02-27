@@ -168,7 +168,7 @@ Hola a todos, la creación de este proyecto tuvo como objetivo almacenar los enl
 2.Menú casi igual, pero fue más rápido en cuestión de tiempo.
 
 
-#   
+# Elementos de tiempo más rápido para completar todo.  
 
 1.Era el Botón.
 

@@ -100,6 +100,10 @@ Hello everyone, the creation of this project aimed to store the links of each pu
 
 # Items more time faster to get the completion of everything.
 
+1.It was the Button.
+
+2. Writing on the Form.
+
 Hola todos 
 
 

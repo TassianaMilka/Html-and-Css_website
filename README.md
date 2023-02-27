@@ -179,6 +179,27 @@ Hola a todos, la creación de este proyecto tuvo como objetivo almacenar los enl
 
 1.Hecho en Sublime Text, muy sencillo, pero muy bueno para realizar un proyecto personal, porque creo que en un profesional incluso obtienes un resultado como ningún otro que utilizan las empresas.
 
+#  
+
+
+1.No contiene en la web;
+
+2. Busqué varias plazas libres y no la encontré y como buena parte hay que pagar;
+
+3.Tuve la idea de usar la Wiki de Githunb;
+
+4. Noté que no contenía como poner una imagen, sino solo la URL y el Link;
+
+5.Lo puse en Google Drive;
+
+6. Pero analizando para no ocupar demasiado y la unidad;
+
+7. Tengo una cuenta de Pinterest;
+
+8. Creé una carpeta solo para Html y CSS;
+
+9.Se colocó en una subpasta, como colocaré otro proyecto.
+
 
 (Muito Obrigada),(Thank You),(Gracias) in (どうもありがとうございます)
 

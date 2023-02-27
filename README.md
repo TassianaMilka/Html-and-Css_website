@@ -78,6 +78,6 @@ Hola todos
 
 
 
-Muito Obrigada,Thank You,Gracias in  
+(Muito Obrigada),(Thank You),(Gracias) in (どうもありがとうございます)
 
 # https://github.com/TassianaMilka/Html-is-Css/wiki

@@ -75,7 +75,7 @@ Hello everyone, the creation of this project aimed to store the links of each pu
 
 2.When you press for example on Home Page you will find a summary about.
 
-3. Under programming you will find a brief text describing what it is about and it contains another button written Java.
+3.Under programming you will find a brief text describing what it is about and it contains another button written Java.
 
 3.1) By pressing this button, you will find several links such as "Programming in Java(1)";
 
@@ -83,7 +83,7 @@ Hello everyone, the creation of this project aimed to store the links of each pu
 
 3.3) Then the video links on Youtube and Githunb direct to the publication code repository.
 
-4. Now if the user wanted to know a little about me.
+4.Now if the user wanted to know a little about me.
 
 4.1) Press the button and you will be able to read the summary;
 

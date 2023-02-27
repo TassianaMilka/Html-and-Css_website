@@ -58,7 +58,7 @@ Olá a todos a criação desde projeto foi destinado para armazenar os links de 
 
 6.Mas analisando para não ocupar demais e o drive;
 
-7.Tenho uma conta no Pinters;
+7.Tenho uma conta no Pinterest;
 
 8.Criei uma pasta destina só para Html e Css;
 
@@ -124,7 +124,7 @@ Hello everyone, the creation of this project aimed to store the links of each pu
 
 6.But analyzing so as not to occupy too much and the drive;
 
-7.I have a Pinters account;
+7.I have a Pinterest account;
 
 8.I created a folder for Html and CSS only;
 

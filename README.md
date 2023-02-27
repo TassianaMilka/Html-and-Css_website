@@ -161,6 +161,17 @@ Hola a todos, la creación de este proyecto tuvo como objetivo almacenar los enl
 4.2)Encuentre los enlaces del otro sitio web, Youtube y Githunb.
 
 
+#   
+
+1. Era el Scrool (barra de desplazamiento hacia arriba y hacia abajo). Estaba intentando varias formas de obtener el resultado hasta que obtuve el deseado.
+
+2. Menú casi igual, pero fue más rápido en cuestión de tiempo.
+
+
+#   
+
+
+
 (Muito Obrigada),(Thank You),(Gracias) in (どうもありがとうございます)
 
 # https://github.com/TassianaMilka/Html-is-Css/wiki

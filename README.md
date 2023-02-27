@@ -93,7 +93,9 @@ Hello everyone, the creation of this project aimed to store the links of each pu
 #  Items more time consuming to get the completion of everything.
 
 
+1.It was the Scrool (Scroll bar down and up I was trying several ways to get the result until I got the desired one.
 
+2.Menu almost the same, but it was faster in a matter of time.
 
 
 

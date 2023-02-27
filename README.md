@@ -163,9 +163,9 @@ Hola a todos, la creación de este proyecto tuvo como objetivo almacenar los enl
 
 #   
 
-1. Era el Scrool (barra de desplazamiento hacia arriba y hacia abajo). Estaba intentando varias formas de obtener el resultado hasta que obtuve el deseado.
+1.Era el Scrool (barra de desplazamiento hacia arriba y hacia abajo). Estaba intentando varias formas de obtener el resultado hasta que obtuve el deseado.
 
-2. Menú casi igual, pero fue más rápido en cuestión de tiempo.
+2.Menú casi igual, pero fue más rápido en cuestión de tiempo.
 
 
 #   

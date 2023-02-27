@@ -32,7 +32,9 @@ Olá a todos a criação desde projeto foi destinado para armazenar os links de 
 2.Menu quase a mesma coisa,porém foi mais rapido em questão de tempo.
 
 
-#  
+#  Itens mais rápido para realização da finalização de tudo.
+
+1.Foi o 
 
 
 

@@ -69,7 +69,25 @@ Olá a todos a criação desde projeto foi destinado para armazenar os links de 
 Hello everyone, the creation of this project aimed to store the links of each publication made on the Yotube channel and a simple text summary of the main points covered in the video of each week in this period of time it took me 15 days or so to finish, because this was my first project with this function. Really a great learning experience for me, I learned more. During the time that I was carrying out each part of this in Html and Css I did it in order not to generate confusion and each item related to the opening of new pages when the user was accessing and facilitating the location of the page. Next I will do a step by step of how the site is.
 
 
+1.The menu entry with the Channel Name Tassiana Milka and the items Home, Schedule and About Me.
 
+1.1) A phrase of greeting to those who access the website and the three buttons Homepage, programmang and About Me.
+
+2.When you press for example on Home Page you will find a summary about.
+
+3. Under programming you will find a brief text describing what it is about and it contains another button written Java.
+
+3.1) By pressing this button, you will find several links such as "Programming in Java(1)";
+
+3.2) Accessing this link will read the small text;
+
+3.3) Then the video links on Youtube and Githunb direct to the publication code repository.
+
+4. Now if the user wanted to know a little about me.
+
+4.1) Press the button and you will be able to read the summary;
+
+4.2)Find the Links of the other Website,Youtube and Githunb.
 
 
 #   en Espanhol 

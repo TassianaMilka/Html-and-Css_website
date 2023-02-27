@@ -6,7 +6,7 @@ Olá a todos a criação desde projeto foi destinado para armazenar os links de 
 
 1.A Entrada do menu do com o Nome  do Canal Tassiana Milka e os itens de Página Inicial,Programção e Sobre Mim.
 
-1.2)Uma frase de cumprimento a quem acessa o website e os três botões a Página Inicial,Programação e Sobre Mim.
+1.1)Uma frase de cumprimento a quem acessa o website e os três botões a Página Inicial,Programação e Sobre Mim.
 
 2.Quando aperta por exemplo em Página Incial vai encontrar um resumo sobre 
 

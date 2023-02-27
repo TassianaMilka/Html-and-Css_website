@@ -175,7 +175,7 @@ Hola a todos, la creación de este proyecto tuvo como objetivo almacenar los enl
 2.Escribir en el Formulario.
 
 
-# 
+# La realización del proyecto.
 
 1.Hecho en Sublime Text, muy sencillo, pero muy bueno para realizar un proyecto personal, porque creo que en un profesional incluso obtienes un resultado como ningún otro que utilizan las empresas.
 

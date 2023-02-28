@@ -71,7 +71,7 @@ svg text{
 	}
 	100%{
 		fill:rgba(56,82,79,0);
-		stroke:rgba(54, 96, 160, 1);
+		stroke:rgba(54, 96, 160, 1); 
         stroke-width:0;
         stroke-dashoffset:-25%;
         stroke-dasharray: 50% 0;

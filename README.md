@@ -41,7 +41,7 @@ Olá a todos a criação desde projeto foi destinado para armazenar os links de 
 2.Escrita no Form.
 
 
-# A realização do projeto.
+# A realização do projeto
 
 1.Feito no Sublime Text bem simples,mas muito  boa para ralizar um projeto pessoal,pois acredito que no profissional até obtém resultado nada como outra que utilizam nas empresas
 
@@ -108,11 +108,11 @@ Hello everyone, the creation of this project aimed to store the links of each pu
 
 2.Writing on the Form.
 
-# The realization of the project.
+# The realization of the project
 
 1.Done in Sublime Text, very simple, but very good for carrying out a personal project, because I believe that no professional even gets results like the others they use in companies.
 
-#  The publication of the website.  
+#  The publication of the website 
 
 1.Does not contain on the web;
 
@@ -162,14 +162,14 @@ Hola a todos, la creación de este proyecto tuvo como objetivo almacenar los enl
 4.2)Encuentre los enlaces del otro sitio web, Youtube y Githunb.
 
 
-#  Elementos que requieren más tiempo para completar todo. 
+#  Elementos que requieren más tiempo para completar todo 
 
 1.Era el Scrool (barra de desplazamiento hacia arriba y hacia abajo). Estaba intentando varias formas de obtener el resultado hasta que obtuve el deseado.
 
 2.Menú casi igual, pero fue más rápido en cuestión de tiempo.
 
 
-# Elementos de tiempo más rápido para completar todo.  
+# Elementos de tiempo más rápido para completar todo 
 
 1.Era el Botón.
 

@@ -27,14 +27,14 @@ Olá a todos a criação desde projeto foi destinado para armazenar os links de 
 4.2)Encontra os Links do outro Website,Youtube e Githunb.
 
 
-# Itens mais demorado para conseguir a finalização de tudo.
+# Itens mais demorado para conseguir a finalização de tudo
 
 1.Foi o Scrool(Barra de Rolagem para baixo e para cima fiquei tentando várias maneira para conseguir o resultado até obtive o desejado. 
 
 2.Menu quase a mesma coisa,porém foi mais rapido em questão de tempo.
 
 
-#  Itens mais rápido para realização da finalização de tudo.
+#  Itens mais rápido para realização da finalização de tudo
 
 1.Foi o Botão.
 
@@ -43,7 +43,7 @@ Olá a todos a criação desde projeto foi destinado para armazenar os links de 
 
 # A realização do projeto.
 
-1.Feito no Sublime Text bem simples,mas muito  boa para ralizar um projeto pessoal,pois acredito que no profissional até obtém resultado nada como outra que utilizam nas empresas.
+1.Feito no Sublime Text bem simples,mas muito  boa para ralizar um projeto pessoal,pois acredito que no profissional até obtém resultado nada como outra que utilizam nas empresas
 
 
 # A publicação do website 
@@ -94,7 +94,7 @@ Hello everyone, the creation of this project aimed to store the links of each pu
 4.2)Find the Links of the other Website,Youtube and Githunb.
 
 
-#  Items more time consuming to get the completion of everything.
+#  Items more time consuming to get the completion of everything
 
 
 1.It was the Scrool (Scroll bar down and up I was trying several ways to get the result until I got the desired one.
@@ -102,7 +102,7 @@ Hello everyone, the creation of this project aimed to store the links of each pu
 2.Menu almost the same, but it was faster in a matter of time.
 
 
-# Items more time faster to get the completion of everything.
+# Items more time faster to get the completion of everything
 
 1.It was the Button.
 
@@ -136,7 +136,7 @@ Hello everyone, the creation of this project aimed to store the links of each pu
 
 # --------------------------------------------------------------------------------------------------------------------------------
 
-# Introducción en español.
+# Introducción en español
 
 Hola a todos, la creación de este proyecto tuvo como objetivo almacenar los enlaces de cada publicación realizada en el canal de Yotube y un resumen de texto simple de los puntos principales tratados en el video de cada semana en este período de tiempo me tomó 15 días aproximadamente para terminar, porque este fue mi primer proyecto con esta función. Realmente una gran experiencia de aprendizaje para mí, aprendí más. Durante el tiempo que estuve realizando cada parte de esto en Html y CSS lo hice para no generar confusión y cada ítem relacionado con la apertura de nuevas páginas cuando el usuario estaba accediendo y facilitando la ubicación de la página. A continuación haré un paso a paso de cómo es el sitio.
 
@@ -176,11 +176,11 @@ Hola a todos, la creación de este proyecto tuvo como objetivo almacenar los enl
 2.Escribir en el Formulario.
 
 
-# La realización del proyecto.
+# La realización del proyecto
 
 1.Hecho en Sublime Text, muy sencillo, pero muy bueno para realizar un proyecto personal, porque creo que en un profesional incluso obtienes un resultado como ningún otro que utilizan las empresas.
 
-#  Una publicación del sitio web.
+#  Una publicación del sitio web
 
 
 1.No contiene en la web;

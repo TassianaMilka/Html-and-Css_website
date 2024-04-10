@@ -91,7 +91,7 @@ Hello everyone, the creation of this project aimed to store the links of each pu
 
 4.1) Press the button and you will be able to read the summary;
 
-4.2)Find the Links of the other Website,Youtube and Githunb.
+4.2)Find the links of the other Website,Youtube and Githunb.
 
 
 #  Items more time consuming to get the completion of everything
@@ -204,6 +204,6 @@ Hola a todos, la creación de este proyecto tuvo como objetivo almacenar los enl
  
 # --------------------------------------------------------------------------------------------------------------------------------
 
-(Muito Obrigada),(Thank You),(Gracias) is (どうもありがとうございます)
+(Muito Obrigada),(Thank You),(Gracias) and (どうもありがとうございます)
 
 # https://github.com/TassianaMilka/Html-is-Css/wiki

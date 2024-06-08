@@ -201,7 +201,25 @@ Hola a todos, la creación de este proyecto tuvo como objetivo almacenar los enl
 
 9.Se colocó en una subpasta, como colocaré otro proyecto.
 
+
  
+
+https://github.com/TassianaMilka/Html-and-Css_website/assets/114196099/dc0c1e0d-b75c-49cc-af78-8b13a695dcd9
+
+
+
+https://github.com/TassianaMilka/Html-and-Css_website/assets/114196099/57cf4d0c-34bb-4046-bc2e-3a3f97c19aa0
+
+
+https://github.com/TassianaMilka/Html-and-Css_website/assets/114196099/da01e821-a0b4-4c38-85e7-52ca40d460c0
+
+
+
+https://github.com/TassianaMilka/Html-and-Css_website/assets/114196099/0365717a-d4d8-4ecd-8c80-30e3ccb70a1d
+
+
+
+
 # --------------------------------------------------------------------------------------------------------------------------------
 
 (Muito Obrigada),(Thank You),(Gracias) and (どうもありがとうございます)

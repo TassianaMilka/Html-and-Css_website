@@ -64,7 +64,7 @@ Olá a todos a criação desde projeto foi destinado para armazenar os links de 
 
 8.Criei uma pasta destina só para Html e Css;
 
-9.Foi colocado em subpaste,pois colocarei outro projetos.
+9.Foi colocado em subpaste,pois colocarei outros projetos.
 
 # --------------------------------------------------------------------------------------------------------------------------------
 

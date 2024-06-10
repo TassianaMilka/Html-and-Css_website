@@ -43,7 +43,7 @@ Olá a todos a criação desde projeto foi destinado para armazenar os links de 
 
 # A realização do projeto
 
-1.Feito no Sublime Text bem simples,mas muito  boa para ralizar um projeto pessoal,pois acredito que no profissional até obtém resultado nada como outra que utilizam nas empresas
+1.Feito no Sublime Text bem simples,mas muito  boa para ralizar um projeto pessoal,pois acredito que no profissional até obtém resultado nada como outra que utilizam nas empresas.
 
 
 # A publicação do website 
